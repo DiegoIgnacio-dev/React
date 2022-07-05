@@ -11,7 +11,8 @@ function App() {
   const ficha={
     altura:"185cm",
     estado:"Excelente",
-    grupo:"H+"
+    grupo:"H+",
+    edad:"12"
 
   }
   return (
@@ -29,6 +30,7 @@ function App() {
       <TercerComponente 
       //nombre={numero}//propiedades del componente
       //apellido="Avila"
+      //purebas trabajando en una rama b
       ficha={ficha}
        />
       </header>
