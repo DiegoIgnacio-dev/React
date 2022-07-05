@@ -7,7 +7,7 @@ import { TercerComponente } from './TercerComponente';
 
 function App() {
 
-  const numero = 100;
+  
   const ficha={
     altura:"185cm",
     estado:"Excelente",
